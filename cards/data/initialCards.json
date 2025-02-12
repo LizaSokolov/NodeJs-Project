@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Best Coffee Shop",
+        "subtitle": "Your favorite coffee place",
+        "description": "A cozy coffee shop offering the best espresso in town.",
+        "phone": "+1234567890",
+        "email": "contact@bestcoffee.com",
+        "web": "https://bestcoffee.com",
+        "image": {
+            "url": "https://example.com/coffee-shop.jpg",
+            "alt": "Best Coffee Shop exterior"
+        },
+        "address": {
+            "state": "California",
+            "country": "USA",
+            "city": "Los Angeles",
+            "street": "Sunset Blvd",
+            "houseNumber": "123",
+            "zip": "90028"
+        },
+        "userId": "654321abcdef123456789012",
+        "likes": []
+    },
+    {
+        "title": "Tech Repair Hub",
+        "subtitle": "Fast and reliable device repairs",
+        "description": "We fix phones, laptops, and tablets with high-quality parts.",
+        "phone": "+0987654321",
+        "email": "support@techrepair.com",
+        "web": "https://techrepair.com",
+        "image": {
+            "url": "https://example.com/tech-repair.jpg",
+            "alt": "Tech Repair Hub workshop"
+        },
+        "address": {
+            "state": "New York",
+            "country": "USA",
+            "city": "New York",
+            "street": "5th Avenue",
+            "houseNumber": "456",
+            "zip": "10001"
+        },
+        "userId": "abcdef123456789012345678",
+        "likes": []
+    }
+]

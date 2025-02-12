@@ -1,0 +1,95 @@
+[
+    {
+        "name": {
+            "first": "John",
+            "middle": "A",
+            "last": "Doe"
+        },
+        "isBusiness": false,
+        "authLevel": 1,
+        "phone": "+1234567890",
+        "email": "john@email.com",
+        "password": "John123!",
+        "address": {
+            "state": "California",
+            "country": "USA",
+            "city": "Los Angeles",
+            "street": "Main Street",
+            "houseNumber": "123"
+        },
+        "image": {
+            "url": "https://example.com/image.jpg",
+            "alt": "User profile picture"
+        }
+    },
+    {
+        "name": {
+            "first": "Jane",
+            "middle": "",
+            "last": "Melony"
+        },
+        "isBusiness": true,
+        "authLevel": 2,
+        "phone": "+1987654321",
+        "email": "janeMelony@email.com",
+        "password": "JaneM123!",
+        "address": {
+            "state": "Texas",
+            "country": "USA",
+            "city": "Austin",
+            "street": "Second Street",
+            "houseNumber": "456"
+        },
+        "image": {
+            "url": "https://example.com/image.jpg",
+            "alt": "Business user profile picture"
+        }
+    },
+    {
+        "name": {
+            "first": "Jim",
+            "middle": "B",
+            "last": "Berry"
+        },
+        "isBusiness": false,
+        "authLevel": 1,
+        "phone": "+1122334455",
+        "email": "jim@email.com",
+        "password": "JimB123!",
+        "address": {
+            "state": "New York",
+            "country": "USA",
+            "city": "New York",
+            "street": "Third Avenue",
+            "houseNumber": "789"
+        },
+        "image": {
+            "url": "https://example.com/image.jpg",
+            "alt": "User profile picture"
+        }
+    },
+    {
+        "name": {
+            "first": "Admin",
+            "middle": "Super",
+            "last": "User"
+        },
+        "isBusiness": false,
+        "isAdmin": true,
+        "authLevel": 3,
+        "phone": "+1112223333",
+        "email": "admin@email.com",
+        "password": "Admin123!",
+        "address": {
+            "state": "Washington",
+            "country": "USA",
+            "city": "Seattle",
+            "street": "Fourth Street",
+            "houseNumber": "101"
+        },
+        "image": {
+            "url": "https://example.com/admin-image.jpg",
+            "alt": "Admin profile picture"
+        }
+    }
+]
